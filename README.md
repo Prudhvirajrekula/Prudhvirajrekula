@@ -22,13 +22,26 @@
 
 ###
 
-<p align="left">As a Computer Science Graduate Student at Pace University, my passion for technology is matched only by my hunger for knowledge. Proficient in Java, Python, and C++, I specialize in data structures, algorithms, database systems, and software engineering. I thrive in collaborative environments, where I actively contribute to team goals and excel in problem-solving. 
+<p align="left">I am a Python full stack developer and computer science graduate student in my final semester at Pace University, actively seeking full-time roles and internships in full-stack development, software engineering, and cybersecurity. With expertise in Python, React.js, Django, Flask, Node.js, JavaScript, and SQL, I have developed scalable, data-driven web applications and secure software solutions. 
 
-In pursuit of enhancing my skills and gaining practical experience, I am keen to embark on an internship journey. I aim to bring fresh perspectives and innovative ideas to technology teams while further honing my abilities. My goal is to actively contribute to the success of dynamic tech teams by leveraging my knowledge and enthusiasm.
+### Technical Expertise: 
+- Full-stack development: MERN stack (MongoDB, Express.js, React, Node.js), Django, Flask 
+- Frontend: React.js, JavaScript, Tailwind CSS, Bootstrap 
+- Backend & databases: Python, PostgreSQL, MySQL, Firebase, RESTful APIs, GraphQL 
+- DevOps & cloud: Docker, AWS, Heroku, GitHub Actions, CI/CD pipelines 
+- Cybersecurity: Penetration testing, vulnerability assessment, ethical hacking 
+- Machine learning & AI: Scikit-Learn, TensorFlow, Keras, PyTorch 
 
-Throughout my professional journey, I have undertaken various projects. One of them is Pizza World, where I led the development of a comprehensive web application facilitating seamless pizza ordering, managing both frontend and backend development to ensure a smooth user experience from selection to checkout. Another project involved leveraging deep learning and image analysis techniques for distracted driver detection, where I spearheaded the implementation of robust algorithms to analyze real-time video feeds, contributing to enhanced road safety measures. Additionally, I've successfully completed full-stack projects, developing efficient algorithms for data processing and contributing to the creation of robust database systems. I've also collaborated on cybersecurity projects, delivering high-quality solutions within tight deadlines. 
+### Projects & Experience: 
+- Full-stack pet food e-commerce website: Built using the MERN stack, implemented Stripe payments, authentication, order tracking, and an admin dashboard. 
+- Pizza ordering platform: Developed a feature-rich ordering system with user authentication, real-time order tracking, and admin management. 
+- Zombie apocalypse survival game (Unity & C#): Designed AI-driven enemy movement, interactive UI, and immersive gameplay. 
+- Electric vehicle data analysis: Used Python, Pandas, and KeplerGL for predictive modeling and data visualization. 
+- Knee osteoarthritis prediction (ML & MRI processing): Processed over 31,000 MRI scans and trained MLP and Random Forest models in MATLAB & Weka. 
 
-Currently seeking internship opportunities to apply my technical expertise and continue growing as a computer science professional. Eager to contribute to dynamic tech teams, I bring fresh perspectives and innovative ideas. Let's connect and explore how I can make meaningful contributions to your team's success. Reach me at pr45629n@pace.edu</p>
+I have also gained industry experience through internships in web development, cybersecurity, and ethical hacking, where I enhanced system security, optimized user experience, and developed responsive applications. 
+
+I am eager to build innovative tech solutions and collaborate on impactful projects. Let’s connect and explore opportunities where I can contribute to your team! Reach me at pr45629n@pace.edu.</p>
 
 ###
 
