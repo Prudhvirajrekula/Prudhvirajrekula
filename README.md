@@ -22,15 +22,18 @@
 
 ###
 
-<p align="left">I am a Python full stack developer and computer science graduate student in my final semester at Pace University, actively seeking full-time roles and internships in full-stack development, software engineering, and cybersecurity. I am a dynamic and results-driven professional with hands-on experience across Cybersecurity, Software Engineering, and Data Analysis. With a passion for technology and problem-solving, I have developed a diverse skill set that allows me to approach challenges from multiple angles and deliver innovative solutions.
+<p align="left">I am a data-focused Python developer and graduate student in Computer Science at Pace University, actively seeking full-time opportunities in Data Science, Machine Learning, and Software Engineering.
 
-In Cybersecurity, I have gained practical experience in threat detection, penetration testing, and vulnerability management, securing web applications and networks by applying best practices like OWASP and SIEM tools. I’ve automated threat detection processes and conducted security audits, ensuring systems are resilient against emerging cyber threats.
+With hands-on experience across data analytics, AI/ML, full-stack development, and cybersecurity, I bring a multidisciplinary approach to solving complex problems. I have built and deployed machine learning models using PyTorch and Scikit-learn, developed predictive analytics pipelines, and created dynamic data visualizations with Matplotlib and PyQt5.
 
-As a Software Engineer, I specialize in full-stack development, leveraging my skills in React.js, Node.js, Python, and cloud technologies to design and optimize scalable, high-performance applications. I have successfully created RESTful APIs, deployed applications to AWS, and integrated front-end and back-end systems to provide seamless user experiences.
+Key projects include:
+• Network Monitoring Tool: Built a PyQt5-based application for real-time network traffic analysis and visualization.
+• ML Model for Predictive Analysis: Designed and trained models for classification and forecasting using Python and Scikit-learn.
+• MERN Stack Web App: Developed and deployed a full-stack application integrating MongoDB, Express.js, React, and Node.js.
+• Cybersecurity Labs: Conducted penetration testing and implemented risk mitigation strategies in simulated environments.
 
-In Data Analysis, I excel at transforming complex datasets into actionable insights. Using tools like Python (Pandas, Scikit-Learn), SQL, and data visualization platforms, I’ve built predictive models, conducted exploratory data analysis, and visualized trends to support data-driven decision-making.
-
-I am eager to leverage my multifaceted skill set in Cybersecurity, Software Engineering, and Data Analysis to drive innovation, solve real-world problems, and contribute to the success of forward-thinking organizations. Reach me at pr45629n@pace.edu.</p>
+My development skills span Python, JavaScript, SQL, and cloud technologies such as AWS, with a strong emphasis on scalable design and data-driven solutions. I aim to contribute to forward-thinking teams where I can apply and expand my technical expertise in AI, data engineering, and software systems.
+Let’s connect if you’re looking for a dedicated, impact-oriented developer with a foundation in data science and a passion for continuous learning.</p>
 
 ###
 
