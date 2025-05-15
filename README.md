@@ -22,18 +22,27 @@
 
 ###
 
-<p align="left">I am a data-focused Python developer and graduate student in Computer Science at Pace University, actively seeking full-time opportunities in Data Science, Machine Learning, and Software Engineering.
+<p align="left">I'm a Data Analyst with a Master’s in Computer Science from Pace University, passionate about turning data into decisions. I specialize in data analysis, visualization, and predictive modeling using tools like Python, SQL, Tableau, Pandas, and Scikit-learn.
+My academic and project experience spans fraud detection, EV adoption analysis, medical prediction, and network traffic visualization. I thrive on uncovering insights from large datasets and delivering results that drive smarter decisions.
 
-With hands-on experience across data analytics, AI/ML, full-stack development, and cybersecurity, I bring a multidisciplinary approach to solving complex problems. I have built and deployed machine learning models using PyTorch and Scikit-learn, developed predictive analytics pipelines, and created dynamic data visualizations with Matplotlib and PyQt5.
+📌 Key Projects:
+• Credit Card Fraud Detection
+Analyzed 284K+ transactions with severe class imbalance; achieved 0.97+ ROC-AUC and improved fraud recall by 75% using ensemble models and SMOTE.
+• Electric Vehicle Data Analysis
+Visualized EV distribution across Washington using KeplerGL and Python, leading to a 30% improvement in identifying adoption trends.
+• Knee Osteoarthritis Prediction
+Processed 31K+ MRI scans and trained models with 74% ROC AUC, streamlining early detection with automated preprocessing.
+• Network Port Monitoring Tool
+Built a GUI-based dashboard to analyze live port activity using PyQt5 and Matplotlib, enhancing visibility into system-level traffic.
 
-Key projects include:
-• Network Monitoring Tool: Built a PyQt5-based application for real-time network traffic analysis and visualization.
-• ML Model for Predictive Analysis: Designed and trained models for classification and forecasting using Python and Scikit-learn.
-• MERN Stack Web App: Developed and deployed a full-stack application integrating MongoDB, Express.js, React, and Node.js.
-• Cybersecurity Labs: Conducted penetration testing and implemented risk mitigation strategies in simulated environments.
+Languages: Python, SQL 
+Tools: Tableau, Git, Excel, Weka 
+Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, KeplerGL 
+ML/AI: Scikit-learn, PyTorch, Random Forest, MLP, Deep Learning 
+Big Data & Cloud: Apache Spark, AWS, Google Colab 
+Databases: MySQL, PostgreSQL 
 
-My development skills span Python, JavaScript, SQL, and cloud technologies such as AWS, with a strong emphasis on scalable design and data-driven solutions. I aim to contribute to forward-thinking teams where I can apply and expand my technical expertise in AI, data engineering, and software systems.
-Let’s connect if you’re looking for a dedicated, impact-oriented developer with a foundation in data science and a passion for continuous learning.</p>
+Let’s connect if you're looking for a data-driven problem solver who delivers insights that matter.</p>
 
 ###
 
