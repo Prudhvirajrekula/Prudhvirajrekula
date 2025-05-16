@@ -35,15 +35,50 @@ I’m a Data Analyst with a Master’s in Computer Science from Pace University,
 
 ## 🔧 Languages & Tools
 
+## 🔧 Languages & Tools
+
+**Programming Languages**  
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"     alt="Python" title="Python" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"      alt="SQL"    title="SQL"    height="30" />
 </div>
+
+**Machine Learning & Artificial Intelligence**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" title="Scikit-learn" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"           alt="MLP"        title="MLP"         height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"           alt="Deep Learning" title="Deep Learning" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"         alt="PyTorch"    title="PyTorch"     height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"           alt="Random Forest" title="Random Forest" height="30" />
+</div>
+
+**Tools**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" title="Tableau" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"         alt="Git"     title="Git"     height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg"     alt="Excel"   title="Excel"   height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/weka/weka-original.svg"       alt="Weka"    title="Weka"    height="30" />
+</div>
+
+**Data Analysis & Visualization**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"     alt="Pandas"     title="Pandas"     height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"       alt="NumPy"      title="NumPy"      height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg"     alt="Seaborn"    title="Seaborn"    height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keplergl/keplergl-original.svg"   alt="KeplerGL"   title="KeplerGL"   height="30" />
+</div>
+
+**Big Data & Cloud (Familiar)**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"       alt="Apache Spark" title="Apache Spark" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" title="AWS" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" alt="Google Colab" title="Google Colab" height="30" />
+</div>
+
+**Databases**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"       alt="MySQL"      title="MySQL"      height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" height="30" />
+</div>
+
