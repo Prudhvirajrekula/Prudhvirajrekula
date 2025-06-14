@@ -1,60 +1,62 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/prudhvi-raj-rekula-991228211/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Prudhvi%20Raj%20Rekula-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   </a>
   &nbsp;
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=prudhvirekula.prudhvirekula&left_text=Profile%20Views" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Prudhvirajrekula.Prudhvirajrekula&left_text=Visitors" alt="Profile Views" />
 </div>
 
-# Hello 👋 I’m Prudhvi
+# 👋 Hi, I'm Prudhvi Raj Rekula
 
-## 👩‍💻 About Me
-I’m a Data Analyst with a Master’s in Computer Science from Pace University, passionate about turning data into decisions. I specialize in data analysis, visualization, and predictive modeling with Python, SQL, Tableau, Pandas, and Scikit-learn. My work spans fraud detection, EV adoption analysis, medical prediction, and network traffic visualization. I thrive on uncovering insights from large datasets and delivering results that drive smarter decisions.
+🎓 MS in Computer Science, Pace University  
+🔍 Data Scientist & Data Analyst | Python · SQL · Machine Learning · Visualization  
+📊 I transform complex data into actionable insights—and build intelligent solutions that drive decisions.
 
-## 📌 Key Projects
-- **Credit Card Fraud Detection**  
-  Analyzed 284K+ transactions with severe class imbalance; achieved 0.97+ ROC-AUC and improved fraud recall by 75% using ensemble models and SMOTE.
+---
 
-- **Electric Vehicle Data Analysis**  
-  Visualized EV distribution across Washington using KeplerGL and Python, leading to a 30% improvement in identifying adoption trends.
+## 🚀 Featured Projects
 
-- **Knee Osteoarthritis Prediction**  
-  Processed 31K+ MRI scans and trained models with 74% ROC-AUC, streamlining early detection with automated preprocessing.
+1. **[Customer Churn & LTV Analytics Platform](https://github.com/Prudhvirajrekula/customer-churn-ltv-analytics-platform)**  
+   - Developed a full-stack analytics pipeline with SQL, Python, and Streamlit to analyze **18K+ customer records**.  
+   - Engineered features for churn detection and LTV scoring; improved insight delivery through dashboard automation.
 
-- **Network Port Monitoring Tool**  
-  Built a GUI dashboard with PyQt5 and Matplotlib to analyze live port activity, enhancing visibility into system-level traffic.
+2. **[Real Estate Price Prediction – Connecticut](https://github.com/Prudhvirajrekula/Real-Estate-Price-Prediction-Connecticut)**  
+   - Built an ML pipeline using **XGBoost and Random Forest** to predict home prices using 20+ features.  
+   - Deployed an interactive **Streamlit app** for real-time property price forecasting.
 
-## 🔧 Languages & Tools
+3. **[EV Insights – Washington State](https://github.com/Prudhvirajrekula/EV-Insights-WA-Streamlit-App)**  
+   - Analyzed electric vehicle adoption trends across Washington using Python and ML classification.  
+   - Delivered predictions and insights through a **real-time Streamlit dashboard**.
 
-**Programming Languages**  
-- Python  
-- SQL  
+4. **[Credit Card Fraud Detection App](https://github.com/Prudhvirajrekula/Creditcard-Fraud-Detection-App)**  
+   - Built a fraud detection model using **Random Forest, SMOTE**, and **PCA** on a **284K transaction dataset**.  
+   - Achieved **0.999 AUC**; deployed via a live Streamlit interface for real-time predictions.
 
-**Machine Learning & Artificial Intelligence**  
-- Scikit-learn  
-- MLP  
-- Deep Learning  
-- PyTorch  
-- Random Forest  
+5. **[U.S. Job Market Analysis (Tableau)](https://github.com/Prudhvirajrekula/USA-Job-Market-Analysis)**  
+   - Analyzed **10K+ job listings** for data roles using Tableau.  
+   - Created an interactive dashboard exploring salaries, demand, and experience levels across industries.
 
-**Tools**  
-- Tableau  
-- Git  
-- Excel  
-- Weka  
+---
 
-**Data Analysis & Visualization**  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- KeplerGL  
+## 🧰 Skills & Tools
 
-**Big Data & Cloud (Familiar)**  
-- Apache Spark  
-- AWS  
-- Google Colab  
+**Languages**: Python · SQL  
+**Data Analysis**: Pandas · NumPy · Excel  
+**Visualization**: Matplotlib · Seaborn · KeplerGL · Tableau  
+**Machine Learning**: Scikit-learn · XGBoost · Random Forest · MLP · SMOTE · PCA  
+**Frameworks**: Streamlit · Jupyter · PyQt5  
+**Databases**: MySQL · PostgreSQL  
+**Big Data & Cloud (Familiar)**: Apache Spark · AWS · Google Colab  
+**Version Control**: Git · GitHub
 
-**Databases**  
-- MySQL  
-- PostgreSQL  
+---
+
+## 📫 Let’s Connect
+
+📧 Email: prudhvirajrekula@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/prudhvi-raj-rekula-991228211](https://www.linkedin.com/in/prudhvi-raj-rekula-991228211/)  
+🌐 Portfolio: (https://prudhvirajrekula.netlify.app/)
+
+---
+
+_“Data is not just numbers—it’s a story waiting to be told.”_
