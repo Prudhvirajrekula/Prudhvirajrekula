@@ -53,9 +53,8 @@
 
 ## 📫 Let’s Connect
 
-📧 Email: prudhvirajrekula@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/prudhvi-raj-rekula-991228211](https://www.linkedin.com/in/prudhvi-raj-rekula-991228211/)  
-🌐 Portfolio: (https://prudhvirajrekula.netlify.app/)
+📧 Email: prudhvimikey@gmail.com  
+🌐 Portfolio: https://prudhvirajrekula.netlify.app/
 
 ---
 
