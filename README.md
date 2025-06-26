@@ -6,7 +6,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Prudhvirajrekula.Prudhvirajrekula&left_text=Visitors" alt="Profile Views" />
 </div>
 
-# 👋 Hi, I'm Prudhvi Raj Rekula
+# 👋 Hi, I'm Prudhvi Raj
 
 🎓 MS in Computer Science, Pace University  
 🔍 Data Scientist & Data Analyst | Python · SQL · Machine Learning · Visualization  
