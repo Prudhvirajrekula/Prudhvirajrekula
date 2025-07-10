@@ -8,54 +8,66 @@
 
 # 👋 Hi, I'm Prudhvi Raj
 
-🎓 MS in Computer Science, Pace University  
-🔍 Data Scientist & Data Analyst | Python · SQL · Machine Learning · Visualization  
-📊 I transform complex data into actionable insights—and build intelligent solutions that drive decisions.
+🎓 MS in Computer Science @ Pace University (GPA: 3.7)  
+🧠 Data Scientist · Machine Learning Engineer · Analyst  
+🔍 I build production-ready ML systems, automate data workflows, and deliver clear insights from complex datasets.
+
+---
+
+## ⚡ What I Do
+
+- Build supervised and time-series models for forecasting, churn, fraud, and pricing problems  
+- Develop and deploy real-time data apps using Streamlit, Docker, and LLMs  
+- Automate ETL pipelines, maintain data consistency, and deliver interactive dashboards  
+- Integrate GenAI (LLMs) for contextual Q&A and insight generation
 
 ---
 
 ## 🚀 Featured Projects
 
-1. **[Customer Churn & LTV Analytics Platform](https://github.com/Prudhvirajrekula/customer-churn-ltv-analytics-platform)**  
-   - Developed a full-stack analytics pipeline with SQL, Python, and Streamlit to analyze **18K+ customer records**.  
-   - Engineered features for churn detection and LTV scoring; improved insight delivery through dashboard automation.
+### 🔹 [Customer Churn & LTV Analytics Platform](https://github.com/Prudhvirajrekula/customer-churn-ltv-analytics-platform)
+- Built a dual-model system combining LSTM (usage patterns) and Random Forest (demographics) to reach **91% churn accuracy**
+- Automated ETL over 100K records and reduced latency by 50% using SQL and Python  
+- Developed a **GenAI chatbot (“Muffin”)** using OpenRouter LLMs (Mistral, LLaMA, MythoMax) for natural language explanation of churn drivers  
+- Dockerized for deployment on Streamlit Cloud and Hugging Face Spaces
 
-2. **[Real Estate Price Prediction – Connecticut](https://github.com/Prudhvirajrekula/Real-Estate-Price-Prediction-Connecticut)**  
-   - Built an ML pipeline using **XGBoost and Random Forest** to predict home prices using 20+ features.  
-   - Deployed an interactive **Streamlit app** for real-time property price forecasting.
+### 🔹 [Real Estate Price Forecasting – Connecticut](https://github.com/Prudhvirajrekula/Real-Estate-Price-Prediction-Connecticut)
+- Trained ensemble models (XGBoost, TensorFlow) on engineered locality, time, and lag features to achieve **R² = 0.82**
+- Delivered a real-time Streamlit dashboard for interactive forecasting  
+- Improved cross-region generalization with seasonal encodings and geographic segmentation
 
-3. **[EV Insights – Washington State](https://github.com/Prudhvirajrekula/EV-Insights-WA-Streamlit-App)**  
-   - Analyzed electric vehicle adoption trends across Washington using Python and ML classification.  
-   - Delivered predictions and insights through a **real-time Streamlit dashboard**.
+### 🔹 [EV Insights – Washington State](https://github.com/Prudhvirajrekula/EV-Insights-WA-Streamlit-App)
+- Explored regional EV adoption using public datasets and classification models  
+- Delivered insights via a real-time Streamlit dashboard with filterable location and trend visualizations
 
-4. **[Credit Card Fraud Detection App](https://github.com/Prudhvirajrekula/Creditcard-Fraud-Detection-App)**  
-   - Built a fraud detection model using **Random Forest, SMOTE**, and **PCA** on a **284K transaction dataset**.  
-   - Achieved **0.999 AUC**; deployed via a live Streamlit interface for real-time predictions.
+### 🔹 [Credit Card Fraud Detection](https://github.com/Prudhvirajrekula/Creditcard-Fraud-Detection-App)
+- Used Random Forest + SMOTE + PCA on 284K transactions to detect fraud with **0.999 AUC**  
+- Deployed an interactive Streamlit app for real-time scoring with clear user input handling
 
-5. **[U.S. Job Market Analysis (Tableau)](https://github.com/Prudhvirajrekula/USA-Job-Market-Analysis)**  
-   - Analyzed **10K+ job listings** for data roles using Tableau.  
-   - Created an interactive dashboard exploring salaries, demand, and experience levels across industries.
-
----
-
-## 🧰 Skills & Tools
-
-**Languages**: Python · SQL  
-**Data Analysis**: Pandas · NumPy · Excel  
-**Visualization**: Matplotlib · Seaborn · KeplerGL · Tableau  
-**Machine Learning**: Scikit-learn · XGBoost · Random Forest · MLP · SMOTE · PCA  
-**Frameworks**: Streamlit · Jupyter · PyQt5  
-**Databases**: MySQL · PostgreSQL  
-**Big Data & Cloud (Familiar)**: Apache Spark · AWS · Google Colab  
-**Version Control**: Git · GitHub
+### 🔹 [U.S. Job Market Analysis (Tableau)](https://github.com/Prudhvirajrekula/USA-Job-Market-Analysis)
+- Analyzed 10K+ job listings across industries and skill groups  
+- Created an interactive Tableau dashboard to explore salary, demand, and experience trends
 
 ---
 
-## 📫 Let’s Connect
+## 🧰 Technical Skills
 
-📧 Email: prudhvimikey@gmail.com  
-🌐 Portfolio: https://prudhvirajrekula.netlify.app/
+**Languages**: Python, SQL  
+**Libraries & ML**: Scikit-learn, TensorFlow, PyTorch, XGBoost, PCA, SMOTE, SentenceTransformers  
+**LLMs**: OpenRouter APIs (Mistral, LLaMA, MythoMax)  
+**Visualization**: Streamlit, Tableau, Seaborn, Matplotlib  
+**Data Engineering**: Pandas, NumPy, ETL Automation, Docker  
+**Databases**: MySQL, PostgreSQL, SQLite  
+**Cloud & Tools**: AWS S3, Google Colab, Apache Spark (PySpark), Git, Jupyter
 
 ---
 
-_“Data is not just numbers—it’s a story waiting to be told.”_
+## 📫 Contact Me
+
+📧 Email: [prudhvimikey@gmail.com](mailto:prudhvimikey@gmail.com)  
+🌐 Portfolio: [prudhvirajrekula.netlify.app](https://prudhvirajrekula.netlify.app/)  
+🐙 GitHub: [github.com/Prudhvirajrekula](https://github.com/Prudhvirajrekula)
+
+---
+
+> _“Data isn't just numbers—it's how we understand the world.”_
