@@ -9,7 +9,7 @@
 # 👋 Hi, I'm Prudhvi Raj
 
 🎓 MS in Computer Science @ Pace University (GPA: 3.7)  
-🧠 Data Scientist · Machine Learning Engineer · Analyst  
+🧠 Data Scientist · AI/ML Engineer · Analyst  
 🔍 I build production-ready ML systems, automate data workflows, and deliver clear insights from complex datasets.
 
 ---
