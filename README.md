@@ -23,13 +23,13 @@
 
 ## 🧰 Technical Skills
 
-**Languages**: Python, SQL  
-**Libraries & ML**: Scikit-learn, TensorFlow, PyTorch, XGBoost, PCA, SMOTE, SentenceTransformers  
-**LLMs**: OpenRouter APIs (Mistral, LLaMA, MythoMax)  
-**Visualization**: Streamlit, Tableau, Seaborn, Matplotlib  
-**Data Engineering**: Pandas, NumPy, ETL Automation, Docker  
-**Databases**: MySQL, PostgreSQL, SQLite  
-**Cloud & Tools**: AWS S3, Google Colab, Apache Spark (PySpark), Git, Jupyter
+**Programming & Libraries:** Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, XGBoost), SQL, Git, Streamlit, Jupyter Notebook 
+**Machine Learning & AI:** Supervised & Unsupervised Learning, Time-Series Modeling (LSTM), Ensemble Learning, NLP, Cross- Validation, Hyperparameter Tuning, Model Evaluation, Bias Mitigation, LLM Integration
+**Feature Engineering & ML Ops:** Temporal Features, Lag Variables, Frequency Encodings, ETL Automation, Schema Validation, Data Versioning, Experiment Tracking, Model Reproducibility, Pipeline Automation
+**Data Analysis & Visualization:** EDA, Outlier Detection, Statistical Profiling, Tableau, Power BI, Matplotlib, Seaborn
+**Databases & Cloud Platforms:** MySQL, PostgreSQL, AWS S3, Google Colab, SQLite, Apache Spark, PySpark
+**Math & Statistics:** Hypothesis Testing, Probability, Linear Algebra, Optimization, Regression Analysis, PCA, Statistical Inference 
+**Collaboration & Workflows:** Agile Sprints, GitHub Workflows, Technical Documentation, End-to-End ML Ownership, Cross-functional Collaboration, Data Handoff to Engineering
 
 ---
 
