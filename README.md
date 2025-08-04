@@ -17,9 +17,11 @@
 ## ⚡ What I Do
 
 - Build supervised and time-series models for forecasting, churn, fraud, and pricing problems  
-- Develop and deploy real-time data apps using Streamlit, Docker, and LLMs  
-- Automate ETL pipelines, maintain data consistency, and deliver interactive dashboards  
-- Integrate GenAI (LLMs) for contextual Q&A and insight generation
+- Design KPI-driven dashboards in **Tableau/Power BI** to track metrics and deliver actionable insights  
+- Automate **ETL pipelines** with data validation to maintain accuracy and improve reporting efficiency  
+- Develop and deploy **real-time data apps** using Streamlit, Docker, and LLMs for predictive analytics  
+- Define business metrics and translate data into reports for **sales, finance, and operations teams**  
+- Integrate **GenAI (LLMs)** for contextual Q&A, automated insight generation, and executive summaries  
  
 ---
 
